@@ -65,10 +65,6 @@ tests/model.cjs       Testes das regras e permissões simuladas
 serve.cjs             Servidor de prévia local
 ```
 
-## Publicação no GitHub Pages
-
-No repositório, abra Settings → Pages. Selecione Deploy from a branch, branch `main` e pasta `/(root)`. Os arquivos são estáticos e não precisam de instalação ou compilação.
-
 ## Dados
 
 O print aceita PNG, JPG ou WebP de até 5 MB. Imagens maiores são otimizadas para até 1920 pixels por dimensão e 600 KB antes de salvar. O anexo acompanha o ticket no armazenamento local e na exportação. Se o navegador estiver sem espaço, o formulário permanece aberto e os dados anteriores são preservados.
